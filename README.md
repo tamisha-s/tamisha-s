@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on disproportionate representation in genomic dataset for breast cancer risk prediction
-- 🌱 I’m currently learning statistical programming and computing paradigms
+- 🔭 I’m currently working on disease risk prediction using family history and polygenic risk scores
+- 🌱 I’m currently learning machine learning and AI risk prediction models
 - 🤔 I’m looking for help with becoming a bioinformatician with a computer engineering undergrad and biomedical engineering master's
 - 💬 Ask me about anything creative writing!
 - 📫 How to reach me: tdsegbefia@gmail.com
-- ⚡ Fun fact: I practice modern calligraphy and hand-lettering
+- ⚡ Fun fact: I crochet! 🧶 
